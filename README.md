@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Manoj P R 👋
 
-<!--
-**MANOJ-DEV-code-bot/MANOJ-DEV-code-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring IT Support & Networking Professional
 
-Here are some ideas to get you started:
+🎓 Diploma in Computer Science and Engineering – 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bengaluru, Karnataka, India
+
+### 🚀 About Me
+I'm an aspiring IT professional interested in Networking, IT Support, and Network Administration. I enjoy learning new technologies and solving technical problems.
+
+### 🛠️ Technical Skills
+- Networking Fundamentals
+- Network Troubleshooting
+- Computer Hardware & Software
+- Technical Support
+- Basic Computer Skills
+
+### 🌱 Currently Learning
+- Computer Networking
+- Network Administration
+- IT Support
+
+### 🎯 Career Goal
+To build a successful career in Networking and IT Support.
+
+### 📫 Contact Me
+- Email: mjeditzzz47@gmail.com
